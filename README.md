@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # furniture
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# furniture
+>>>>>>> 423a195e4f62a2ccbdee3e3c332f27942e984fad
